@@ -1,2 +1,1 @@
-# Test code for gpt response.
-# LLM DA test.
+# LLM as an Editor.
