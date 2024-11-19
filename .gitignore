@@ -1,4 +1,5 @@
-model/
-.tmp.drivedownload/
-.tmp.driveupload/
-DS/
+model
+.tmp.drivedownload
+.tmp.driveupload
+DS
+DS_few_shot
