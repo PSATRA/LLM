@@ -3,3 +3,5 @@ model
 .tmp.driveupload
 DS
 DS_few_shot
+.DS_Store
+.idea
