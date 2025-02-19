@@ -1,4 +1,7 @@
 # LLM as an Editor
+
+**[This repo only contains parts of the works that is allowed to be publicized.]**
+
 **Research on Text Data Augmentation Methods for Low-Quality Text Based on LLMs**    
 Objective: Leverage LLMs to improve the quality and diversity of training data to optimize the performance of
 machine learning and deep learning models, especially when data quality is low or data volume is insufficient.  
